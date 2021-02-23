@@ -1,3 +1,5 @@
+//this program is to find the xor of a range of array
+
 #include<bits/stdc++.h>
 typedef long long ll;
 using namespace std;
