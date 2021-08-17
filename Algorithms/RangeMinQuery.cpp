@@ -1,5 +1,5 @@
 //program to find minimum element in a given range of static array
-    //sqareRootDecomposition
+    //using sqareRootDecomposition
 
 //#include<iostream>
 #include<bits/stdc++.h>

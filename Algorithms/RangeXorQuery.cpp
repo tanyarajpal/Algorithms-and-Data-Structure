@@ -12,7 +12,7 @@ int main(){
     for(ll i=0;i<n;i++){
         cin>>arr[i];
     }
-    ll prefix[n]={0};
+    ll prefix[n];
     prefix[0]=arr[0];
     for(ll i=1;i<n;i++){
         prefix[i] = prefix[i-1] ^ arr[i];
